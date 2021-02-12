@@ -1,6 +1,6 @@
 # Description
 
-The app consists of 4 pages: Accordion, Search, Translator
+The app consists of 4 pages: Accordion, List, Search, Translator
 
 Each of the utilises approach of React Hooks.
 
